@@ -1,3 +1,5 @@
+Une branche par implémentation du kata réalisée
+
 Ecrire une classe qui dit bonjour, implémenter les règles une après l’autre.
 
 Règle 1 : répondre “Bonjour <prénom>”
